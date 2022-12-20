@@ -1,0 +1,54 @@
+<html>
+    <canvas id="myCanvas" width="1000" height="1000">
+    </canvas>
+    <script>
+        var c = document.getElementById("myCanvas");
+        var ctx = c.getContext("2d");
+        ctx.fillStyle = "Green";
+        ctx.fillRect(20, 20, 100, 70);
+        
+        ctx.beginPath();
+		
+        ctx.fillStyle = "Red";
+		ctx.moveTo(150, 60);
+		ctx.lineTo(100, 75);
+		ctx.lineTo(150, 25);
+		ctx.fill();
+        
+        ctx.beginPath();
+        ctx.ellipse(75, 100, 20, 30, Math.PI / 2, 0, 2 * Math.PI);
+        ctx.stroke();
+        ctx.fill();
+        
+		
+        ctx.fillStyle = "yellow";
+        ctx.beginPath();
+        ctx.moveTo(10, 200);
+        ctx.lineTo(150,250);
+        ctx.lineTo(100, 300);
+        ctx.lineTo(10, 290);
+        ctx.closePath();
+        ctx.fill();
+        
+        ctx.lineWidth = 1.5;
+        ctx.strokeStyle = 'red';
+
+        ctx.beginPath();
+        var y=350;
+        for (var i = 0; i < 45; i++)
+        {
+                var x = Math.random() * 100;
+                ctx.lineTo(x, y);
+                y=350+x;
+        }
+        ctx.stroke();
+        
+        var grd = ctx.createLinearGradient(0, 0, 200, 0);
+        grd.addColorStop(0, "red");
+        grd.addColorStop(1, "white");
+
+        // Fill with gradient
+        ctx.fillStyle = grd;
+        ctx.fillRect(100, 100, 150, 80);
+    </script> 
+<html>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CA1 20pw01/CA1 20pw01.iml" filepath="$PROJECT_DIR$/CA1 20pw01/CA1 20pw01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Interface/Interface.iml" filepath="$PROJECT_DIR$/Interface/Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVAlab.iml" filepath="$PROJECT_DIR$/.idea/JAVAlab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Multithreading/Multithreading.iml" filepath="$PROJECT_DIR$/Multithreading/Multithreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PS Collection/PS Collection.iml" filepath="$PROJECT_DIR$/PS Collection/PS Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PS Exception/PS Exception.iml" filepath="$PROJECT_DIR$/PS Exception/PS Exception.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PS1/PS1.iml" filepath="$PROJECT_DIR$/PS1/PS1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PS2/PS2.iml" filepath="$PROJECT_DIR$/PS2/PS2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serialization/Serialization.iml" filepath="$PROJECT_DIR$/Serialization/Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/THREAD/THREAD.iml" filepath="$PROJECT_DIR$/THREAD/THREAD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/package/package.iml" filepath="$PROJECT_DIR$/package/package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/threads/threads.iml" filepath="$PROJECT_DIR$/threads/threads.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<html>
+	<center>
+	<table>
+		<tr>
+			<td>
+				<a href="https://www.psgtech.edu/" target="view"><button>PSGCT</button></a>
+				<br><a href="https://www.iitm.ac.in/" target="view"><button>IITM</button></a>
+				<br><a href="http://www.psgitech.ac.in/" target="view"><button>PSGIT</button></a>
+			</td>
+			<td>
+				<iframe src="https://www.psgtech.edu/" name="view" width="500px" height="500px" style="border:5px solid black;">
+				</iframe>
+			</td>
+		</tr>
+</html>

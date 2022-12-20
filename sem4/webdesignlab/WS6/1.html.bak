@@ -1,0 +1,33 @@
+<html>
+<style>
+h1 {
+	background-color: gray;
+}
+.c1 {
+	width: 49rem;
+	float: left;
+	border: 3px solid red;
+	background-image: linear-gradient(to right,orange,white,green);
+}
+.c2 {
+	width: 49.5%;
+	float: right;
+	border: 3px dashed violet;
+	background-image: linear-gradient(orange,white,green);
+	
+}
+</style>
+<body>
+	<h1>Question 1</h1>
+	<p class="c1">Make a layout template that contains a header and two paragraphs. Use float to line up the two paragraphs as columns side by side. Give the header and two paragraphs a border and/or a background color so you can see where they are
+	Make a layout template that contains a header and two paragraphs. Use float to line up the two paragraphs as columns side by side. Give the header and two paragraphs a border and/or a background color so you can see where they are
+	Make a layout template that contains a header and two paragraphs. Use float to line up the two paragraphs as columns side by side. Give the header and two paragraphs a border and/or a background color so you can see where they are
+	Make a layout template that contains a header and two paragraphs. Use float to line up the two paragraphs as columns side by side. Give the header and two paragraphs a border and/or a background color so you can see where they are
+	Make a layout template that contains a header and two paragraphs. Use float to line up the two paragraphs as columns side by side. Give the header and two paragraphs a border and/or a background color so you can see where they are</p>
+	<p class="c2">Make a layout template that contains a header and two paragraphs. Use float to line up the two paragraphs as columns side by side. Give the header and two paragraphs a border and/or a background color so you can see where they are
+	Make a layout template that contains a header and two paragraphs. Use float to line up the two paragraphs as columns side by side. Give the header and two paragraphs a border and/or a background color so you can see where they are
+	Make a layout template that contains a header and two paragraphs. Use float to line up the two paragraphs as columns side by side. Give the header and two paragraphs a border and/or a background color so you can see where they are
+	Make a layout template that contains a header and two paragraphs. Use float to line up the two paragraphs as columns side by side. Give the header and two paragraphs a border and/or a background color so you can see where they are
+	Make a layout template that contains a header and two paragraphs. Use float to line up the two paragraphs as columns side by side. Give the header and two paragraphs a border and/or a background color so you can see where they are</p>
+</body>
+</html>

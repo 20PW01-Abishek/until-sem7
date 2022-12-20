@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title></title>
+</head>
+<body>
+    <p id="f"></p>
+    <script>
+        let i=100;
+        for(let i=100; i>0; i--){
+            let str="";
+            str = str + i-1 + "bottles of beer on the wall, "+i-1+ "bottles of beer.\nTake one down and pass it around,"+ i-2+" bottles of beer on the wall.\n";
+            document.getElementById("f").innerHTML=str;
+        }
+        
+    </script>
+</body>
+</html>

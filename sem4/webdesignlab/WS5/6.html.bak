@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+    h1{
+        font-size: 7em;
+        font-family: 'Courier New', Courier, monospace;
+        font-style:italic;
+        font-weight: 800;
+        color: orange;
+        letter-spacing: 0.3ch;
+    }
+</style>
+<body>
+    <h1>Problemsheeeeeeet</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, accusantium beatae non quia rem voluptatum eligendi, nulla cum obcaecati quidem laudantium libero repellat distinctio possimus rerum id nostrum. Quaerat, aspernatur?</p>
+</body>
+</html>

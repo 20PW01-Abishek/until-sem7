@@ -1,0 +1,21 @@
+<html>
+<body>
+	<h1><span id="no"></span><span id="c"></span></h1>
+	<script>
+		function checkPalindrome (n) {
+			let inverted = n.split("").reverse().join("");
+			if(inverted==n)
+				document.getElementById("c").innerHTML = " "+"is a palindrome";
+			else
+				document.getElementById("c").innerHTML = " "+"is not a palindrome";
+		}
+		let n = prompt("Enter a 5 digit number: ");
+		while(n<10000 || n>99999){
+			alert("Enter valid 5 digit number!");
+			n = parseInt(prompt("Enter a 5 digit number: "));
+		}
+		document.getElementById("no").innerHTML = n;
+		checkPalindrome(n);
+	</script>
+</body>
+</html>

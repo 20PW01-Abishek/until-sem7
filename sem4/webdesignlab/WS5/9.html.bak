@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<style>
+	p {
+		color: green;
+		padding-left: 30px;
+	}
+</style>
+<body>
+	<p>
+		Write a CSS rule to set the background color for block level element. Use different color models like color names, hexadecimal colors, rgb and others.
+		Write a CSS code using different text properties to add some special styles to make the headings stand out more from the main text and also make the text in the paragraphs look more clean and attractive.
+		Write a CSS rule that makes all text 1.5 times larger than the base font of the system and color it red.
+		Create a CSS rule that changes the effect of an EM element from italic text to underlined text.
+		Write a CSS rule that changes the color of all elements with attribute CLASS=”greenMove” to green and shifts them down 25 pixels and right 15 pixels.
+		Design a webpage with three titles and four paragraph as shown below:
+	</p>
+</body>
+</html>

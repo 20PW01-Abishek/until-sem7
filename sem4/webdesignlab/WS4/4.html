@@ -1,0 +1,59 @@
+<html>
+<form align="center">
+  <div class="nativeDatePicker">
+    <label for="bday">Enter your birthday:</label>
+    <input type="date" id="bday" name="bday">
+    <span class="validity"></span>
+  </div>
+  <p class="fallbackLabel">Enter your birthday:</p>
+  <div class="fallbackDatePicker">
+    <span>
+      <label for="day">Day:</label>
+      <select id="day" name="day">
+      </select>
+    </span>
+    <span>
+      <label for="month">Month:</label>
+      <select id="month" name="month">
+        <option selected>January</option>
+        <option>February</option>
+        <option>March</option>
+        <option>April</option>
+        <option>May</option>
+        <option>June</option>
+        <option>July</option>
+        <option>August</option>
+        <option>September</option>
+        <option>October</option>
+        <option>November</option>
+        <option>December</option>
+      </select>
+    </span>
+    <span>
+      <label for="year">Year:</label>
+      <select id="year" name="year">
+      </select>
+    </span>
+<br>
+<br>
+<label for="start">Start date:</label>
+<input type="date" id="start" name="trip-start"
+       value="2018-07-22"
+       min="2018-01-01" max="2018-12-31">
+<p>(To set date limits)</p>
+<br>
+<label>
+    Schedule:
+    <input type="date" name="office" min="2017-04-01" max="2017-04-20" required>
+    <span class="validity"></span>
+</label>
+<p>(Check validity)</p>
+<br>
+<label>Enter your birthday:
+    <input type="date" name="bday" required pattern="\d{4}-\d{2}-\d{2}">
+    <span class="validity"></span>
+  </label>
+  </div>
+</form>
+
+</html>

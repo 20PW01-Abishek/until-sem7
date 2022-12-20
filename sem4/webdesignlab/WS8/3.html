@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h2 class="email"></h2>
+    <h2 class="result">
+
+    </h2>
+    <script>
+        let email = prompt("Enter email: ");
+        document.querySelector(".email").innerHTML = email;
+        function isEmail(str) {
+            regexp = /^\w+([\.!#$%&'*+/=?^_`{|}~-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/
+
+            if (regexp.test(str)) {
+                return true;
+            }
+            else {
+                return false;
+            }
+        }
+        document.querySelector(".result").innerHTML = isEmail(email)
+    </script>
+</body>
+
+</html>

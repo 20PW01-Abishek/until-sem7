@@ -1,0 +1,91 @@
+<html>
+<style>
+#button {
+    width:150px;
+    height:40px;
+    background-color:rgba(236, 196, 173, 0.973);
+    color: rgb(6, 90, 6);
+    text-align: center;
+    font-size: 24px;
+}
+#image {
+   
+    height:200px;
+    width:200px;
+    top:50%;
+	background-image: url("https://static01.nyt.com/images/2019/05/07/science/06SCI-TIGER1/03SCI-TIGER1-videoSixteenByNineJumbo1600.jpg");
+}
+#final {
+    float: left;
+    width: 250px;
+    height: 300px;
+    left: 50px;
+    padding:50px;
+    margin:20px;
+    top: 50px;
+   
+}
+#buttons
+{
+    float:left;
+    width:240px;
+    height: 300px;
+    padding:10;
+}
+#content {
+    float:left;
+    width: 500px;
+    height: 300px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#header {
+    color: rgb(95, 11, 11);
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif-;
+}
+   
+</style>
+<body>
+    <div id="header">
+
+        The Zoo
+    </div>
+    <br>
+    <br>
+    <br>
+    <div id="buttons">
+        <div id="button">Information</div>
+        <br>
+        <br>
+        <div id="button">Liamas</div>
+        <br>
+        <br>
+        <div id="button">Bears</div>
+        <br>
+        <br>
+        <div id="button">Tigers</div>
+        <br><br>
+        <div id="button">Penguins</div>
+        <br>
+        <br>
+        <div id="button">Guinea pigs</div>
+</div>
+<div id="content">
+    <div id="header">Information</div>
+    The London Zoo, which was opened in 1828, was initially known as
+the "Gardens and Menagerie of the Zoological Society of London", and
+it described itself as a menagerie or "zoological forest".[3] The
+abbreviation "zoo" first appeared in print in the United Kingdom
+around 1847, when it was used for the Clifton Zoo, but it was not
+until some 20 years later that the shortened form became popular in
+the song "Walking in the Zoo" by music-hall artist Alfred Vance.[3]
+The term "zoological park" was used for more expansive facilities in
+Halifax, Nova Scotia, Washington, D.C., and the Bronx in New York,
+which opened in 1847, 1891 and 1899 respectively.
+</div>
+<div id="final">
+    <div id="image">
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<html>
+	<canvas id="myCanvas" width="600" height="400" border="1px">
+	</canvas>    
+    <script>
+		var c = document.getElementById("myCanvas");
+		var ctx = c.getContext("2d");
+		ctx.fillStyle = "#fc6b03";
+		ctx.fillRect(20, 20, 300,50);
+		ctx.fillStyle="white";
+		ctx.fillRect(20,70,300,50);
+		ctx.strokeStyle="#000080";
+		ctx.beginPath();
+		ctx.arc(170, 75, 25, 0, 2 * Math.PI);
+		ctx.stroke();
+		ctx.fillStyle="green";
+		ctx.fillRect(20,120,300,50);
+    </script>
+</html>

@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+}
+
+.head {
+    background-color: maroon;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    font-family: "Papyrus";
+    font-style: italic;
+  }
+  
+.navbar a {
+    float: left;
+    color: rgb(255, 196, 0);
+    text-align: center;
+    padding: 2px 10px;
+    text-decoration: none;
+    font-size: 17px;
+}
+  
+.navbar a:hover {
+    background-color: #ddd;
+    color: black;
+}
+  
+.navbar a.active {
+    background-color: rgb(158, 11, 0);
+    color: rgb(255, 196, 0);
+}
+
+.hlo {
+    background-color: maroon;
+    color: rgb(255, 196, 0);
+    font-style:italic;
+    font-weight: bold;
+    padding: 8px;
+}
+
+.content {
+    background-color: maroon;
+}
+
+.r1c1 {
+    width: 33.3%;
+    font-size: 1.6rem;
+    color: rgb(255, 196, 0);
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.r1c2 {
+    width: 33.3%;
+    font-family: "Papyrus";
+    font-weight: bold;
+    font-style: italic;
+    color: rgb(255, 196, 0);
+}
+
+.r1c3 {
+    width: 33.3%;
+    font-size: 0.8rem;
+    font-weight: bold;
+    color: rgb(255, 196, 0);
+}
+
+.r2c2 {
+    background-color: rgb(255, 196, 0);
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.r3c1 {
+    color: rgb(255, 196, 0);
+    font-family: "Papyrus";
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.6rem;;
+}
+
+.r3c3 {
+    width: 100%;
+}
+
+.r4c1 {
+    color: rgb(255, 196, 0);
+    font-family: "Papyrus";
+    font-weight: bold;
+    font-style: italic;
+    font-size: 1.1rem;
+}
+
+.footerabv {
+    background-color: maroon;
+    color: white;
+    font-size: 1.2rem;
+    padding: 20px;
+}
+
+.footer {
+    background-color: rgb(88, 0, 0);
+    color: white;
+    font-style: italic;
+    font-family: "Papyrus";
+    font-size: 1.2rem;
+}
