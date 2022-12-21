@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1615618509 source:z:\project\main.cpp
+	<iostream>
+	"add.h"
+	<string>
+
+1615618165 z:\project\add.h
+	<string>
+
+1615618419 source:z:\project\add.cpp
+	<iostream>
+	"add.h"
+	<string>
+

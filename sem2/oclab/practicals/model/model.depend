@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615353697 source:z:\oclab\model\main.cpp
+	<iostream>
+	"Point.h"
+
+1615353592 z:\oclab\model\point.h
+
+1615353620 source:z:\oclab\model\point.cpp
+	<iostream>
+	"point.h"
+	<cmath>
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1615617762 source:z:\1\main.cpp
+	<iostream>
+	"address.h"
+	<string>
+
+1615617762 z:\1\address.h
+	<string>
+

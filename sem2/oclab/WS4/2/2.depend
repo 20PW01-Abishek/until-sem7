@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1616051142 source:z:\oclab\ws4\2\set.cpp
+	<iostream>
+	"set.h"
+
+1616050955 z:\oclab\ws4\2\set.h
+	<iostream>
+
+1616050938 source:z:\oclab\ws4\2\main.cpp
+	<iostream>
+	"set.h"
+

@@ -1,0 +1,16 @@
+A = set()
+B = set()
+lA= int(input("Enter no.of elements in set A: "))
+for i in range (lA):
+   e= int(input("Enter element: "))
+   A.add(e)
+lB= int(input("Enter no.of elements in set B: "))
+for i in range (lB):
+   e= int(input("Enter element: "))
+   B.add(e)
+print("Set A: ",A)
+print("Set B: ",B)  
+print("Intersection of sets A and B is: ",A&B)
+print("Union of sets A and B is: ",A|B)
+print("Difference of sets A and B is: ",A-B)
+print("Symmetric difference b/w set A and B is: ",A^B)
