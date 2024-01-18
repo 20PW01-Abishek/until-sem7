@@ -1,0 +1,16 @@
+com.example.ca1.app-appcompat-v7-28.0.0-0 C:\Users\aasan\.gradle\caches\transforms-3\035d6e8ef3ff5ac72a60e4158887e41b\transformed\appcompat-v7-28.0.0\res
+com.example.ca1.app-recyclerview-v7-28.0.0-1 C:\Users\aasan\.gradle\caches\transforms-3\0a765ae3c53b4b7e57f797437d43875a\transformed\recyclerview-v7-28.0.0\res
+com.example.ca1.app-support-compat-28.0.0-2 C:\Users\aasan\.gradle\caches\transforms-3\3c466ff62160b3f810e2677a5e2cf8d3\transformed\support-compat-28.0.0\res
+com.example.ca1.app-constraint-layout-2.0.4-3 C:\Users\aasan\.gradle\caches\transforms-3\3fb9810d52035d488b1633e5ad6179ae\transformed\constraint-layout-2.0.4\res
+com.example.ca1.app-coordinatorlayout-28.0.0-4 C:\Users\aasan\.gradle\caches\transforms-3\407f9a3743c6037e312bda50c7026d49\transformed\coordinatorlayout-28.0.0\res
+com.example.ca1.app-transition-28.0.0-5 C:\Users\aasan\.gradle\caches\transforms-3\412b5703672425e769054942f24c3380\transformed\transition-28.0.0\res
+com.example.ca1.app-design-28.0.0-6 C:\Users\aasan\.gradle\caches\transforms-3\486721b68e3b7f41a7afcad18635a7fc\transformed\design-28.0.0\res
+com.example.ca1.app-cardview-v7-28.0.0-7 C:\Users\aasan\.gradle\caches\transforms-3\9ac26a3e2e48daaa008be79f176960ed\transformed\cardview-v7-28.0.0\res
+com.example.ca1.app-pngs-8 D:\Z-drive\mobile computing lab\CA1\app\build\generated\res\pngs\debug
+com.example.ca1.app-resValues-9 D:\Z-drive\mobile computing lab\CA1\app\build\generated\res\resValues\debug
+com.example.ca1.app-rs-10 D:\Z-drive\mobile computing lab\CA1\app\build\generated\res\rs\debug
+com.example.ca1.app-packageDebugResources-11 D:\Z-drive\mobile computing lab\CA1\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.ca1.app-packageDebugResources-12 D:\Z-drive\mobile computing lab\CA1\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.ca1.app-merged_res-13 D:\Z-drive\mobile computing lab\CA1\app\build\intermediates\merged_res\debug
+com.example.ca1.app-debug-14 D:\Z-drive\mobile computing lab\CA1\app\src\debug\res
+com.example.ca1.app-main-15 D:\Z-drive\mobile computing lab\CA1\app\src\main\res

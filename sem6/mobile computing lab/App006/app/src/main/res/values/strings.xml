@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">e6</string>
+    <string-array name="genders">
+        <item>Prefer not to say</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+</resources>

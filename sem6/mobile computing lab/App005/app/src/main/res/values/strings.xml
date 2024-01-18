@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App005</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_the_captcha">Enter the captcha</string>
+    <string name="enter_the_captcha_you_see_below">Enter the captcha you see below</string>
+    <string name="captcha">CAPTCHA</string>
+    <string name="public_distribution_system">PUBLIC DISTRIBUTION SYSTEM</string>
+    <string name="mobile_number">Mobile number</string>
+    <string name="welcome_user">WELCOME USER</string>
+</resources>

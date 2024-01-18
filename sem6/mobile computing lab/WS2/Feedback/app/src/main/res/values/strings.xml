@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App003</string>
+    <string name="title">We hope you enjoyed your meal with us today</string>
+    <string name="rat_def">Please enter your rating</string>
+    <string name="rat_s1">Awesome. I love it</string>
+    <string name="rat_s2">Good. Enjoyed it</string>
+    <string name="rat_s3">Satisfied</string>
+    <string name="rat_s4">Not good. Needs improvement</string>
+    <string name="rat_s5">Disappointed. Very poor</string>
+</resources>
